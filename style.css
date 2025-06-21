@@ -337,7 +337,7 @@ h2 {
   }
 }
 
-@media scree and(max-width: 440px) {
+@media screen and(max-width: 440px) {
   h2 {
     padding: 0 10% 0 10%;
   }
